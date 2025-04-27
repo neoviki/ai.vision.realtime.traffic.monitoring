@@ -43,7 +43,6 @@
     1. Number of cars crossing a signal 
     2. Number of persons crossing a signal 
     3. Detect anomalies in traffic
-    4. Planned to do various statistical information on live traffic [ Stay Tuned! ]
 
 
 #### DATASET
